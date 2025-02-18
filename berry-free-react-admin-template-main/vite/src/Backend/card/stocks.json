@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Reliance",
+    "price": 2445.3,
+    "popularity": 98,
+    "change": 3.1
+  },
+  {
+    "name": "Bajaj Finserv",
+    "price": 1580.75,
+    "popularity": 90,
+    "change": 2.5
+  },
+  {
+    "name": "TTML",
+    "price": 130.2,
+    "popularity": 85,
+    "change": -1.8
+  },
+  {
+    "name": "Stolon",
+    "price": 189,
+    "popularity": 75,
+    "change": -2.3
+  }
+]
